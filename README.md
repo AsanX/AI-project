@@ -1,6 +1,4 @@
-# Project Title
-
-EcoSaver
+# EcoSaver
 
 ## Summary
 
