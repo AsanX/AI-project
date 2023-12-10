@@ -29,7 +29,7 @@ The effectiveness also relies on user engagement and willingness to adopt energy
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+The project could grow by integrating with smart home ecosystems, partnering with energy utility companies for more comprehensive insights, and incorporating predictive maintenance features for appliances. Expansion into commercial spaces and collaborating with city-level initiatives could further extend its impact.
 
 
 ## Acknowledgments
